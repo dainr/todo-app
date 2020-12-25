@@ -1,0 +1,2 @@
+# todo-app
+Creating a working todo application using html, css and javascript. The goal of the project is to combine knowledge and skills learned on freecodecamp and build something to further solidify the information I have learned. Also part of the project is to collaborate with other fellow coder so we can gain the experience of working with other developers, and being able to read and understand each other code. 
